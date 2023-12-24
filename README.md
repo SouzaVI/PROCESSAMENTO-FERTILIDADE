@@ -36,7 +36,7 @@ Este projeto tem como objetivo criar uma extensão para o QGIS dedicada ao proce
 5. **Extração do Arquivo Zipado**:
    - Faça o download do arquivo zipado chamado "GEOPROCESSAMENTO" e extraia seu conteúdo para a pasta recém-criada.
 
-## TELA
+## Tela e produto
 ![Tela ](https://github.com/SouzaVI/PROCESSAMENTO-FERTILIDADE/assets/98165012/954d6490-32af-426b-a7bb-4ae819700787)
 ![processado](https://github.com/SouzaVI/PROCESSAMENTO-FERTILIDADE/assets/98165012/fbcb45d0-9ade-4114-8d12-505a81bbde34)
 
