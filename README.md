@@ -34,6 +34,6 @@ Este projeto tem como objetivo criar uma extensão para o QGIS dedicada ao proce
    - Crie uma pasta chamada "geoprocessamento" no diretório C: em seu sistema.
 
 5. **Extração do Arquivo Zipado**:
-   - Faça o download do arquivo zipado chamado "geoprocessamento" e extraia seu conteúdo para a pasta recém-criada.
+   - Faça o download do arquivo zipado chamado "GEOPROCESSAMENTO" e extraia seu conteúdo para a pasta recém-criada.
 
 
