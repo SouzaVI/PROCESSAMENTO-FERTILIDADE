@@ -1,1 +1,3 @@
-# PROCESSAMENTO-FERTILIDADE
+# Extensão para QGIS: Processamento Eficiente e Automatizado de Dados de Fertilidade
+
+Este projeto abrange a criação de uma extensão para o QGIS dedicada ao processamento eficiente e automatizado de dados de fertilidade. Além da concepção dessa extensão, a responsabilidade inclui a migração do sistema legado de processamento de dados para o novo método incorporado à extensão. A extensão desenvolvida visa otimizar o tratamento de dados de fertilidade, proporcionando automação e eficiência no contexto do QGIS. A migração do sistema legado para a nova abordagem assegura a continuidade operacional e uma transição suave para o processo aprimorado, integrado à extensão recém-criada. O projeto busca, assim, a modernização e aprimoramento do fluxo de trabalho de processamento de dados de fertilidade no ambiente QGIS.
