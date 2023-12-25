@@ -1,6 +1,6 @@
-# Extensão para QGIS: Processamento Eficiente e Automatizado de Dados de Fertilidade
+## Extensão para QGIS: Processamento Eficiente e Automatizado de Dados de Fertilidade
 
-## Introdução
+## Contextualização
 
 Este projeto tem como objetivo criar uma extensão para o QGIS dedicada ao processamento eficiente e automatizado de dados de fertilidade por meio da técnica de Krigagem Ordinária. A proposta visa modernizar e aprimorar o fluxo de trabalho no QGIS, proporcionando uma solução integrada para o tratamento de dados de fertilidade.
 
@@ -12,16 +12,10 @@ Este projeto tem como objetivo criar uma extensão para o QGIS dedicada ao proce
 
 3. **Migração do Sistema Legado**: Garantir uma transição suave do sistema legado para a nova abordagem incorporada à extensão, assegurando a continuidade operacional e a preservação dos dados existentes.
 
-4. **Integração com o QGIS 3.28 ou Superior**: Desenvolver a extensão considerando a compatibilidade com o QGIS versão 3.28 ou superior, aproveitando as funcionalidades e mais recentes do software.
-
-5. **Dependências Externas**: Gerenciar as dependências externas necessárias para a execução da extensão, como o pacote `rasterio`, para garantir uma instalação tranquila.
-
-## Instalação
-
-### Requisitos
 
 - QGIS 3.28 ou superior instalado no sistema.
 - Pacotes Python: `rasterio` (instalável via pip).
+
 
 
 3. **Instalação da Extensão**:
