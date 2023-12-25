@@ -12,22 +12,19 @@ Este projeto tem como objetivo criar uma extensão para o QGIS dedicada ao proce
 
 3. **Migração do Sistema Legado**: Garantir uma transição suave do sistema legado para a nova abordagem incorporada à extensão, assegurando a continuidade operacional e a preservação dos dados existentes.
 
-
+## Requisitos
 - QGIS 3.28 ou superior instalado no sistema.
 - Pacotes Python: `rasterio` (instalável via pip).
-
-
-
-3. **Instalação da Extensão**:
+### **Instalação da Extensão**:
    - Faça o download do arquivo da extensão.
    - Abra o QGIS e vá para "Complementos" > "Gerenciar e Instalar Complementos".
    - Selecione a opção "Instalar a partir de um arquivo ZIP" e escolha o arquivo da extensão.
 
 
-4. **Criação da Pasta geoprocessamento**:
+### **Criação da Pasta geoprocessamento**:
    - Crie uma pasta chamada "geoprocessamento" no diretório C: em seu sistema.
 
-5. **Extração do Arquivo Zipado**:
+ ### **Extração do Arquivo Zipado**:
    - Faça o download do arquivo zipado chamado "GEOPROCESSAMENTO" e extraia seu conteúdo para a pasta recém-criada.
 
 ## Tela e produto
